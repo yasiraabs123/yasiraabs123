@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hi, I'm Yasir Abbas<br><br>- 🏦 Application Engineering Adviser @ Mobilink Microfinance Bank<br>- 🎓 Bachelor's in Computer Science from Agriculture University Peshawar<br>- 🚀 Starting Master's in Big Data & Machine Learning @ ITMO University (Sept 2025)<br>- 🌍 Languages: Pashto (Native), Urdu, English, Russian (learning)<br>- 💻 Skills: HTML, CSS, JavaScript, Git, SQL
+
+ Hi, I'm Yasir Abbas<br><br>- 🏦 Application Engineering Adviser @ Mobilink Microfinance Bank<br>- 🎓 Bachelor's in Computer Science from Agriculture University Peshawar<br>- 🚀 Starting Master's in Big Data & Machine Learning @ ITMO University (Sept 2025)<br>- 🌍 Languages: Pashto (Native), Urdu, English, Russian (learning)<br>-
 
 
 ## 🌐 Socials:
